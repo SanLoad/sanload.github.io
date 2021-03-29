@@ -2,55 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sanload.github.io/uncategorized/hello-world/</loc>
+    <loc>https://sanload.github.io/JavaSE/</loc>
     
-    <lastmod>2021-03-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sanload.github.io/uncategorized/abcd/</loc>
-    
-    <lastmod>2021-03-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sanload.github.io/uncategorized/me/</loc>
-    
-    <lastmod>2021-03-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sanload.github.io/uncategorized/asd/</loc>
-    
-    <lastmod>2021-03-19</lastmod>
+    <lastmod>2021-03-23</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://sanload.github.io/</loc>
-    <lastmod>2021-03-23</lastmod>
+    <lastmod>2021-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://sanload.github.io/tags/Java/</loc>
-    <lastmod>2021-03-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sanload.github.io/tags/hello/</loc>
-    <lastmod>2021-03-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 
   
